@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/heroku-ExpenseTracker/static/css/main.a528523b.css",
-    "main.js": "/heroku-ExpenseTracker/static/js/main.117f0462.js",
+    "main.js": "/heroku-ExpenseTracker/static/js/main.097aa56d.js",
     "index.html": "/heroku-ExpenseTracker/index.html",
     "main.a528523b.css.map": "/heroku-ExpenseTracker/static/css/main.a528523b.css.map",
-    "main.117f0462.js.map": "/heroku-ExpenseTracker/static/js/main.117f0462.js.map"
+    "main.097aa56d.js.map": "/heroku-ExpenseTracker/static/js/main.097aa56d.js.map"
   },
   "entrypoints": [
     "static/css/main.a528523b.css",
-    "static/js/main.117f0462.js"
+    "static/js/main.097aa56d.js"
   ]
 }
