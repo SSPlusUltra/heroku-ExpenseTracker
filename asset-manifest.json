@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SSPlusUltra/heroku-ExpenseTracker.git/static/css/main.a528523b.css",
+    "main.js": "/SSPlusUltra/heroku-ExpenseTracker.git/static/js/main.117f0462.js",
+    "index.html": "/SSPlusUltra/heroku-ExpenseTracker.git/index.html",
+    "main.a528523b.css.map": "/SSPlusUltra/heroku-ExpenseTracker.git/static/css/main.a528523b.css.map",
+    "main.117f0462.js.map": "/SSPlusUltra/heroku-ExpenseTracker.git/static/js/main.117f0462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a528523b.css",
+    "static/js/main.117f0462.js"
+  ]
+}
