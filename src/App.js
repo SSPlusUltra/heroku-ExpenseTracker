@@ -4,20 +4,20 @@ import { useState } from "react";
 const dummy_expenses = [
   {
     id:1,
-    name: "v1",
+    name: "Clothing",
     date: new Date(2020,7,14),
     price: 500
   }
   ,
   {
     id:2,
-    name: "v2",
+    name: "Groceries",
     date: new Date(2019,7,15),
     price: 520
   },
   {
     id:3,
-    name: "v3",
+    name: "Wrist-Watch",
     date: new Date(2022,8,20),
     price: 800
   }
